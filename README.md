@@ -39,7 +39,3 @@ Este repositorio contiene una libreta de Jupyter que explora los 10 algoritmos m
 ## Licencia
 
 Este repositorio está bajo la Licencia MIT. Consulta el archivo `LICENSE` para más detalles.
-
----
-
-¡Asegúrate de personalizar esta plantilla según tus necesidades específicas y de incluir enlaces a la libreta de Jupyter y cualquier otra información relevante!
